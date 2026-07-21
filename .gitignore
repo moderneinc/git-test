@@ -6,3 +6,5 @@ foobar123456789
 # Moderne CLI
 .moderne/*
 !.moderne/context/
+
+zig-out/

@@ -8,3 +8,5 @@ foobar123456789
 !.moderne/context/
 
 zig-out/
+
+.cursor/rules/*.local.mdc
